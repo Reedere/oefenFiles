@@ -1,0 +1,168 @@
+Studienummer	ICopme	PatientOverleden
+ 15 A	Nee	Nee
+ 16 A	Nee	Nee
+ 17 A	Nee	Nee
+ 17 B		
+ 18 A	Nee	Nee
+ 19 A	Ja	Ja
+ 20 A	Nee	Nee
+ 20 B		
+ 21 A	Ja	Nee
+ 22 A	Nee	Ja
+ 23 A	Nee	Nee
+ 24 A	Nee	Nee
+ 25 A	Nee	Nee
+ 26 A	Nee	Nee
+ 27 A	Ja	Nee
+ 28 A	Ja	Ja
+ 29 A	Nee	Nee
+ 29 B		
+ 30 A	Nee	Nee
+ 31 A	Ja	Nee
+ 32 A	Nee	Nee
+ 33 A	Nee	Nee
+ 34 A	Nee	Nee
+ 35 A	Nee	Nee
+ 36 A	Nee	Nee
+ 36 B		
+ 37 A	Ja	Nee
+ 38 A	Nee	Nee
+ 39 A	Nee	Nee
+ 40 A	Nee	Nee
+ 41 A	Nee	Nee
+ 42 A	Ja	Nee
+ 43 A	Nee	Nee
+ 44 A	Nee	Nee
+ 45 A	Nee	Nee
+ 46 A	Nee	Nee
+ 47 A	Nee	Nee
+ 48 A	Nee	Nee
+ 49 A	Nee	Ja
+ 50 A	Nee	Nee
+ 50 B		
+ 51 A	Nee	Nee
+ 51 B		
+ 52 A	Nee	Nee
+ 52 B		
+ 52 C		
+ 53 A	Ja	Nee
+ 53 B		
+ 53 C		
+ 53 D		
+ 54 A	Ja	Nee
+ 54 B		
+ 54 C		
+ 55 A	Ja	Ja
+ 55 B		
+ 55 C		
+ 55 D		
+ 56 A	Ja	Nee
+ 56 B		
+ 57 A	Nee	Nee
+ 57 B		
+ 58 A	Nee	Nee
+ 59 A	Ja	Nee
+ 59 B		
+ 60 A	Nee	Nee
+ 60 B		
+ 61 A	Nee	Nee
+ 61 B		
+ 62 A	Nee	Nee
+ 62 B		
+ 64 A	Ja	Nee
+ 64 B		
+ 65 A	Nee	Ja
+ 65 B		
+ 66 A	Ja	Nee
+ 66 B		
+ 66 C		
+ 66 D		
+ 67 A	Ja	Nee
+ 67 B		
+ 68 A	Nietopgenomen	Nietopgenomen
+ 69 A	Nee	Nee
+ 70 A	Nee	Nee
+ 71 A	Nee	Nee
+ 72 A	Ja	Nee
+ 74 A	Nee	Nee
+ 75 A	Nee	Nee
+ 75 B		
+ 75 C		
+ 76 A	Ja	Nee
+ 76 B		
+ 77 A	Nee	Nee
+ 78 A	Nee	Nee
+ 79 A	Nee	Nee
+ 80 A	Nee	Nee
+ 81 A	Nee	Nee
+ 81 B		
+ 81 C		
+ 81 D		
+ 82 A	Nee	Nee
+ 82 B		
+ 82 C		
+ 83 A	Nee	Nee
+ 83 B		
+ 83 C		
+ 84 A	Nee	Nee
+ 84 B		
+ 85 A	Ja	Nee
+ 85 B		
+ 85 C		
+ 86 A	Nee	Nee
+ 87 A	Nee	Nee
+ 87 B		
+ 88 A	Nee	Nee
+ 89 A	Nee	Nee
+ 90 A	Ja	Ja
+ 91 A	Ja	Nee
+ 92 A	Nee	Nee
+ 93 A	Nee	Nee
+ 94 A	Ja	Nee
+ 95 A	Nee	Nee
+ 96 A	Nee	Nee
+ 97 A	Nee	Nee
+ 98 A	Ja	Nee
+ 99 A	Nee	Nee
+ 100 A	Nee	Nee
+ 101 A	Nee	Nee
+ 101 B		
+ 102 A	Nee	Nee
+ 104 A	Ja	Nee
+ 105 A	Nee	Nee
+ 106 A	Nee	Ja
+ 107 A	Nee	Nee
+ 108 A	Nee	Nee
+ 109 A	Nee	Nee
+ 110 A	Nee	Nee
+ 111 A	Nee	Nee
+ 112 A	Nee	Nee
+ 113 A	Ja	Nee
+ 114 A	Nee	Nee
+ 116 A	Nee	Nee
+ 117 A	Nee	Nee
+ 118 A	Nee	Nee
+ 121 A	Nee	Nee
+ 121 B		
+ 122 A	Nee	Nee
+ 123 A	Ja	Nee
+ 123 B		
+ 123 C		
+ 123 D		
+ 124 A	Nee	Nee
+ 124 B		
+ 125 A	Nee	Nee
+ 126 A	Nee	Nee
+ 126 B		
+ 128 A	Ja	Nee
+ 128 B		
+ 130 A	Nee	Nee
+ 131 A	Nee	Nee
+ 131 B		
+ 131 C		
+ 131 D		
+ 132 A	Ja	Ja
+ 133 A	Ja	Nee
+ 134 A	Nee	Nee
+ 135 A	Nee	Nee
+ 135 B		
